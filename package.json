@@ -45,7 +45,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://mohammed-alfez.github.io/vervebridge_Myntra-Clone/"
+    "homepage": "https://mohammed-alfez.github.io/vervebridge_Myntra-Clone"
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
